@@ -1,5 +1,8 @@
 README file for PCRE (Perl-compatible regular expression library)
 -----------------------------------------------------------------
+[lamar]add:
+ - config option: ./configure --prefix=/usr/local/pcre --libdir=/usr/local/lib/pcre --includedir=/usr/local/include/pcre
+
 
 NOTE: This set of files relates to PCRE releases that use the original API,
 with library names libpcre, libpcre16, and libpcre32. January 2015 saw the
