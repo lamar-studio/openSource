@@ -6,4 +6,14 @@ backup the excellent open source code project.
 - alsa-lib
 - alsa-utils
 
+## PulseAudio
+the server for sound based on alsa.
+
+## avahi
+
+
+## pcre
+
+
+## glib
 
