@@ -17,3 +17,7 @@ the server for sound based on alsa.
 
 ## glib
 
+## WebRTC Audio Processing 
+The open source code from google, is use to process sound effect.
+such as: NS, AEC, AGC and so on.
+
